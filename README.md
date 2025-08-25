@@ -18,3 +18,11 @@ This project analyzes sales data using Python's Pandas library to extract insigh
 - Pandas
 - Matplotlib
 - Seaborn
+
+## How to create a data analysis project for beginner:
+- First, create a .ipynb file
+- Download a .csv dataset from Kaggle
+- Copy every line from the given code and run it separately. In that way, you can understand what the code wants to tell us
+- Now time to research and learn in-depth.
+- - Find out more dataset and work on it, use ChatGPT to give you daily work, and submit it to GitHub.
+  - Use GfG or W3 to learn the models and ML library.
